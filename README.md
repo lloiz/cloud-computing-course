@@ -1,23 +1,56 @@
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for Cloud Computing - CCS 2026*
+> *A collection of activities, outputs, and learning resources for [INFORMATION TECHNOLOGY/Code]*
 
-##  About This Repository
+## 📌 About This Repository
 
 This repo serves as my organized workspace for all course requirements, including:
 
 - Class notes and summaries
+
 - Lab activities and exercises
+
 - Mini-projects
+
 - Reflection papers
-- Cloud infrastructure configurations
 
-##  Student Information
+👤 Student Information
 
-- **Name:** [YOUR FULL NAME HERE]
-- **Course/Section:** Bachelor of Science in Computer Science - Section A
-- **Instructor:** Prof. [INSTRUCTOR'S NAME HERE]
-- **School Year:** 2026-2027
-- **Semester:** 1st Semester
+- Name:[JOHN LESTER ESTEVES PALMA]
 
-##  Repository Structure
+- Course/Section:[BS INFORMATION TECHNOLOGY / 4-A]
+
+- Instructor:[JENKIELYN TORRES]
+
+- School Year: [2026-2027]
+
+
+📂 Repository Structure
+
+cloud-computing-course/
+
+├── activities/
+
+├── projects/
+
+├── notes/
+
+├── reflections/
+
+└── README.md
+
+
+
+📖 Key Concepts Covered
+
+- Cloud Computing Basics
+
+- Service Models (IaaS, PaaS, SaaS)
+
+- Deployment Models (Public, Private, Hybrid, Community)
+
+- Version Control with Git & GitHub
+
+- Cloud Infrastructure Management
+
+  
