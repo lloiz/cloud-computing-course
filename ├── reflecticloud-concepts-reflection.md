@@ -1,4 +1,4 @@
-# Reflection Paper: Cloud Computing Concepts in Daily Life
+# Reflection Paper: Cloud Computing Concepts
 
 ## Cloud Services I Use Daily
 
