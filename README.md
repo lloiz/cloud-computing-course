@@ -41,16 +41,25 @@ cloud-computing-course/
 
 
 
-📖 Key Concepts Covered
 
-- Cloud Computing Basics
+## 📖 Key Concepts Covered
 
-- Service Models (IaaS, PaaS, SaaS)
+- **Cloud Computing Basics**
+  - Definition and essential characteristics
+  - Benefits and challenges
 
-- Deployment Models (Public, Private, Hybrid, Community)
+- **Service Models (SPI Model)**
+  - **IaaS** (Infrastructure as a Service) - AWS EC2, Google Compute Engine
+  - **PaaS** (Platform as a Service) - Google App Engine, Heroku
+  - **SaaS** (Software as a Service) - Google Workspace, Microsoft 365
 
-- Version Control with Git & GitHub
+- **Deployment Models**
+  - **Public Cloud** - Available to the general public
+  - **Private Cloud** - Exclusive use by a single organization
+  - **Hybrid Cloud** - Combination of public and private
+  - **Community Cloud** - Shared by several organizations
 
-- Cloud Infrastructure Management
-
-  
+- **Version Control with Git & GitHub**
+  - Branching strategies
+  - Collaborative workflows
+  - Infrastructure as Code (IaC)
